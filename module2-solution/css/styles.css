@@ -17,7 +17,7 @@ h2 {
   color: black;
   background-color: #9ACD32;
   border: 1px solid black;
-  width: 30%;
+  width: 35%;
   height:40px;
   text-align: center;
 }
@@ -33,7 +33,7 @@ h2 {
 }
 #h2-3{
   position: relative;
-  right: -55%;
+  right: -60%;
   top: 2px;
 }
 
@@ -44,6 +44,7 @@ p {
   color: white;
   overflow: scroll;
   text-align: justify;
+  padding-left: 15px;
 }
 #p1{
   background-color: #FF8C00;
